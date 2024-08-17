@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://tanisi-systems-inc.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tanisi-systems-inc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/archives/</link>
+      <link>https://tanisi-systems-inc.github.io/archives/</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/archives/</guid>
+      <guid>https://tanisi-systems-inc.github.io/archives/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://tanisi-systems-inc.github.io/about/</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://tanisi-systems-inc.github.io/about/</guid>
       <description>What we do Tanisi Systems Inc supplies a broad range of IT application solutions and services including e-Business solutions, Enterprise Resource Planning (ERP) Implementation and Post Implementation Support, Application Development, Application Maintenance, Data Warehousing, Software Customization, Remote Database Administration and Business Process Outsourcing services.</description>
     </item>
     <item>
       <title>Services</title>
-      <link>http://localhost:1313/services/</link>
+      <link>https://tanisi-systems-inc.github.io/services/</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/</guid>
+      <guid>https://tanisi-systems-inc.github.io/services/</guid>
       <description>Workforce Optimization We focus on serving our clients with a combination of innovative technologies, increased efficiencies, and leading-edge solutions with an end-goal of achieving client excellence.</description>
     </item>
     <item>
       <title>Under Renovation</title>
-      <link>http://localhost:1313/post/under-renovation/</link>
+      <link>https://tanisi-systems-inc.github.io/post/under-renovation/</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/under-renovation/</guid>
+      <guid>https://tanisi-systems-inc.github.io/post/under-renovation/</guid>
       <description></description>
     </item>
   </channel>
